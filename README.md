@@ -20,3 +20,6 @@ $ ls
 STEP 4: Run the GUI
 
 $ java TTTGUI   
+
+
+![description](images/lose.png)
